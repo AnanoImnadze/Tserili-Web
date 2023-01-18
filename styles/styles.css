@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* ------ headeris stilebi ------ */
+
+header {
+    height: 100px;
+    border-bottom: 1px solid #c3c3c3;
+    padding: 38px 124px 38px 60px;
+}
+
+header h2 {
+    font-size: 20px;
+    float: left;
+    margin-right: 724px;
+}
+
+header h2 a {
+    color: #E7E7E7
+
+}
+
+header nav ul li {
+    float: left;
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #E7E7E7;
+}
+
+/* ----- mainis stilebi ----- */
+
+
+
+
+main h2 {
+    font-size: 128px;
+    letter-spacing: 100px;
+    margin-top: 50px;
+    margin-left: 65px;
+    margin-right: 62px;
+}
+
+.misamarti {
+    font-size: 20px;
+    width: 305px;
+    height: 48px;
+    margin: 182px 132px 270px 60px;
+    float: left;
+}
+
+.tarigi {
+    font-size: 20px;
+    width: 116px;
+    height: 48px;
+    margin: 182px 132px 308px 0;
+    float: left;
+}
+
+.textebi {
+    font-size: 20px;
+    width: 660px;
+    height: 236px;
+    margin-top: 182px;
+    float: left;
+}
+
+.pirvelitext {
+    margin-bottom: 50px;
+}
+
+.xazi {
+    width: 100%;
+    height: 1px;
+    background-color: #C3C3C3;
+    clear: both;
+}
+
+
+
+
+
+.statia1img {
+    width: 33.33%;
+    height: 626px;
+    float: left;
+    border: 8px solid #000000;
+    margin-bottom: 96px;
+}
+
+
+.statia1img h3 {
+    margin-bottom: 20px;
+}
+
+.statia1img h3 a {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.statia1img img {
+    width: 100%;
+    height: 626px;
+}
+
+
+
+.statia2img {
+    width: 33.33%;
+    height: 626px;
+    float: left;
+    border: 8px solid #000000;
+    margin-bottom: 96px;
+}
+
+
+.statia2img h3 {
+    margin-bottom: 20px;
+}
+
+
+.statia2img h3 a {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.statia2img img {
+    width: 100%;
+    height: 626px;
+}
+
+
+
+
+.statia3img {
+    width: 33.33%;
+    height: 626px;
+    float: left;
+    border: 8px solid #000000;
+    margin-bottom: 96px;
+}
+
+.statia3img h3 {
+    margin-bottom: 20px;
+
+}
+
+
+.statia3img h3 a {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.statia3img img {
+    width: 100%;
+    height: 626px;
+}
+
+
+
+footer {
+    width: 100%;
+    height: 200px;
+    border-top: 1px solid #C3C3C3;
+    clear: both;
+}
+
+.footerimg {
+    width: 100px;
+    height: 100px;
+    margin: 50px 16px 50px 112px;
+    float: left;
+}
+
+.footerimg img {
+    width: 100%;
+}
+
+.footertext {
+    width: 138px;
+    height: 80px;
+    float: left;
+    letter-spacing: 4px;
+    margin: 70px 0px 60px 0;
+}
+
+.how {
+    font-size: 24px;
+}
+
+
+
+
